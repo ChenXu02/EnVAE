@@ -1,2 +1,2 @@
 # EnVAE
-Code for paper "likelihood-free variational autoencoders"
+Code for paper "Likelihood-free Variational Autoencoders"
